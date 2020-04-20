@@ -2,7 +2,7 @@
 Code for the ISIC Skin Image Analysis Workshop  at CVPR 2020.
 Download: soon
 
-For the Mahalanobis, ODIN, and Baseline, please, refer to:
+For the Mahalanobis, ODIN, and Baseline, please, refer to the following repositories:
 - [ODIN: Out-of-Distribution Detector for Neural Networks](https://github.com/facebookresearch/odin)
 - [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://github.com/pokaxpoka/deep_Mahalanobis_detector/)
 
@@ -26,7 +26,7 @@ ISIC unknown detection is available on [isic_submit folder](isic_submit).
 
 Team on [live leaderboard](https://challenge2019.isic-archive.com/live-leaderboard.html): Gram-OOD - UNK detection using Gram-OOD* - Resnet
 
-![](/home/patcha/Codigos/gram-ood/isic_submit/merge/submissions/metrics/gram-ood*/resnet.png)
+![](isic_submit/merge/submissions/metrics/gram-ood*/resnet.png)
 
 The remaining results are available on [this folder](isic_submit/merge/submissions/metrics/)
 
