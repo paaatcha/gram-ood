@@ -1,6 +1,9 @@
 # On Out-of-Distribution Detection Algorithms with Deep Neural Skin CancerClassifiers
-Code for the ISIC Skin Image Analysis Workshop  at CVPR 2020.
-Download: soon
+Code for the ISIC Skin Image Analysis Workshop paper at CVPR 2020.
+
+Paper Download: [link](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Pacheco_On_Out-of-Distribution_Detection_Algorithms_With_Deep_Neural_Skin_Cancer_Classifiers_CVPRW_2020_paper.pdf)
+
+Workshop Talk: [link](https://www.youtube.com/watch?v=3kICSeBOndk&feature=youtu.be)
 
 For the Mahalanobis, ODIN, and Baseline, please, refer to the following repositories:
 - [ODIN: Out-of-Distribution Detector for Neural Networks](https://github.com/facebookresearch/odin)
@@ -11,7 +14,7 @@ For the Mahalanobis, ODIN, and Baseline, please, refer to the following reposito
 - Download data and checkpoints running the `setup.sh` script.
 - Run the network notebook (ex: `sk_mobilenet.ipynb`)
 
-If you don't want to use the script, you can download data [from here](https://www.dropbox.com/s/nl3la5hhvfjn8hp/data.zip?dl=0) and the [checkpoints from here](https://www.dropbox.com/s/rnddrlxc9lbazcq/checkpoints.zip?dl=0).
+If you don't want to use the `setup.sh`script, you can download data [from here](https://www.dropbox.com/s/nl3la5hhvfjn8hp/data.zip?dl=0) and the [checkpoints from here](https://www.dropbox.com/s/rnddrlxc9lbazcq/checkpoints.zip?dl=0).
 
 ISIC unknown detection is available on [isic_submit folder](isic_submit).
 
