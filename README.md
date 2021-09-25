@@ -1,5 +1,5 @@
 # On Out-of-Distribution Detection Algorithms with Deep Neural Skin CancerClassifiers
-Code for the ISIC Skin Image Analysis Workshop paper at CVPR 2020.
+Code for the best paper of the ISIC Skin Image Analysis Workshop at CVPR 2020.
 
 Paper Download: [link](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Pacheco_On_Out-of-Distribution_Detection_Algorithms_With_Deep_Neural_Skin_Cancer_Classifiers_CVPRW_2020_paper.pdf)
 
