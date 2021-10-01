@@ -5,7 +5,7 @@ Paper Download: [link](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w4
 
 Workshop Talk: [link](https://www.youtube.com/watch?v=3kICSeBOndk&feature=youtu.be)
 
-For the Mahalanobis, ODIN, and Baseline, please, refer to the following repositories:
+For the Mahalanobis, ODIN, and Baseline original codes, please, refer to the following repositories:
 - [ODIN: Out-of-Distribution Detector for Neural Networks](https://github.com/facebookresearch/odin)
 - [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://github.com/pokaxpoka/deep_Mahalanobis_detector/)
 
@@ -13,6 +13,7 @@ For the Mahalanobis, ODIN, and Baseline, please, refer to the following reposito
 - Install the dependencies: `pip install -r requirements.txt`
 - Download data and checkpoints running the `setup.sh` script.
 - Run the network notebook (ex: `sk_mobilenet.ipynb`)
+- The Mahalanobis, ODIN, and Baseline adaptations are available on [mahalanobis_and_odin](mahalanobis_and_odin) folder.
 
 If you don't want to use the `setup.sh`script, you can download data [from here](https://www.dropbox.com/s/nl3la5hhvfjn8hp/data.zip?dl=0) and the [checkpoints from here](https://www.dropbox.com/s/rnddrlxc9lbazcq/checkpoints.zip?dl=0).
 
